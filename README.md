@@ -3,3 +3,4 @@
 ## Datasets
 - ### [IndigoMobile](https://github.com/sip-group/snf-it-dis/tree/master/datasets/indigomobile)
 - ### [Indigo1x1_base](https://github.com/sip-group/snf-it-dis/tree/master/datasets/indigo1x1base)
+###### _(the data set will be released on December 2021 after WIFS 2021 public presentation)_
